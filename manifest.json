@@ -1,0 +1,27 @@
+{
+
+  "manifest_version": 2,
+  "name": "HubSpot Cache Buster",
+  "version": "1.0",
+
+  "description": "Cache busting tool for hubspot CMS development",
+
+  "icons": {
+    "48": "/hbspt.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "/hbspt.png",
+    "default_title": "HS CacheBust",
+    "browser_style": true
+  },
+
+
+  "background": {
+    "scripts": ["cacheBust.js"]
+  }
+
+}
