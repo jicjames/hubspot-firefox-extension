@@ -14,6 +14,11 @@ In firefox, go to the ["This Firefox"](about:debugging#/runtime/this-firefox) Pa
 
 Under "Temporary Extensions", click the "Load Temporary Add-on" button and select the `manifest.json` file in your local version of this repository.
 
+![image](https://user-images.githubusercontent.com/6244979/128598513-1ba441b8-0c44-4ef3-b4fb-1b94e463c08c.png)
+
+![image](https://user-images.githubusercontent.com/6244979/128598520-75355e56-cb16-4bda-9f31-8278e38b8ac8.png)
+
+
 The addon Icon should appear in your browser addon toolbar.
 
 # Usage
