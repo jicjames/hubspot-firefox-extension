@@ -25,4 +25,5 @@ The addon Icon should appear in your browser addon toolbar.
 
 To use the extension, simply click on the icon. The page will be reloaded with a `?hsCacheBust=1234` parameter (with random number).
 
+![image](https://user-images.githubusercontent.com/6244979/128598552-57790eed-a73d-4e34-bd88-b05d453dc92c.png)
 
